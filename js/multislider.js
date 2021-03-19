@@ -1,11 +1,3 @@
-/*
-*   MultiSlider | MIT License
-*
-*   Copyright (c) 2017 Trevor Blackman
-*   http://www.multislider.info
-*
-*/
-
 (function($){
 
     // ==== BEGINS PLUGGIN ====
